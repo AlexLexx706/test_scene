@@ -1,8 +1,2 @@
-setuptools-git-version==1.0.3
 PyQt5==5.9
 sip==4.19.3
-pyserial==3.4
-regex==2017.11.9
-git+ssh://git@mos-git.topcon.com:7999/mcrnd/parser_messages.git@master
-requests==2.18.4
-pyserial==3.4
