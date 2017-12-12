@@ -1,13 +1,5 @@
 *.pyc
-records
 venv
 *.egg-info
 build
 dist
-results
-db
-.python-version
-.vscode
-node_modules
-*.txt
-test_sound*
