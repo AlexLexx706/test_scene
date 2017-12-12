@@ -5,8 +5,8 @@ LOG = logging.getLogger(__name__)
 
 
 class Tractor(QtWidgets.QGraphicsItemGroup):
-    body_length = 4.0
-    body_width = 2
+    body_length = 40.0
+    body_width = 20
 
     pen = QtGui.QPen()
     pen.setWidth(1)

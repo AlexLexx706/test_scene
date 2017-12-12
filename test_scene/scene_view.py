@@ -3,7 +3,7 @@
 import math
 import logging
 from PyQt5 import QtWidgets, QtCore
-from test_scene.vehicle_scene
+from test_scene import vehicle_scene
 
 LOG = logging.getLogger(__name__)
 
